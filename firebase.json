@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "golden-leaf-ai-website",
     "public": ".",
     "ignore": [
       "firebase.json",
